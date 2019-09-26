@@ -1,0 +1,35 @@
+.service-description__img--xs-m-b-40 {
+    margin-bottom: 40px;
+
+    @media (min-width: 768px) {
+        margin-bottom: 0;
+    }
+}
+
+.service-description__content {
+    font-size: 14px;
+    line-height: 24px;
+    color: @grey;
+
+    p {
+        margin-top: 0;
+        margin-bottom: 22px;
+    }
+}
+   
+.service-description__link-arrow {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-image: url('../img/icons/arrow-orange.png');
+    background-repeat: no-repeat;
+    background-position: left top;
+    transition: 0.2s linear;
+
+    &:active, &:hover, &:focus {
+        box-shadow: 0px 5px 10px 0px rgba(255, 200, 10, 1);
+        border-radius: 50%;
+    }
+}
+
+
