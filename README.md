@@ -6,5 +6,6 @@
 * Анимация при скролле страницы (Animate.css Wow.js)
 * Навигация по странице, плавный page scroll
 * Мобильная навигация
+* Owl carousel
 
 [Онлайн демо](http://project2019.zzz.com.ua/dz_apollo/)
