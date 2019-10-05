@@ -8,4 +8,4 @@
 * Мобильная навигация
 * Owl carousel
 
-[Онлайн демо](http://project2019.zzz.com.ua/dz_apollo/)
+[Онлайн демо](https://aleksandrp23.github.io/Apollo/)
